@@ -1,0 +1,10 @@
+export const CHANGE_USER_NAME='change_user_name';
+export const CHANGE_PASSWD='change_passwd';
+export const CHANGE_TOKEN='change_token';
+export const CHANGE_REG='change_reg';
+export const CHANGE_CONFIRM_PASSWD='change_confirm_pass';
+export const CHANGE_EMAIL_PASSWD='change_email';
+export const RESET='reset';
+export const CHANGE_PAGE='change_page';
+export const CHANGE_RECORD_ID='change_id';
+export const CHANGE_TYPE='change_type';
